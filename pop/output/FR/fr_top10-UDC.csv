@@ -1,51 +1,51 @@
 "","Commune","Canton","Pourcentage"
-"1","Horrenbach-Buchen",2,84.10543131
-"2","Lütschental",2,81.041544763
-"3","Schangnau",2,79.6736359
-"4","Berken",2,78.273809524
-"5","Hundwil",15,76.534296029
-"6","Wachseldorn",2,76.15248227
-"7","Saxeten",2,75.109649123
-"8","Seehof",2,75
-"9","Habkern",2,74.642488574
-"10","Hergiswil (NW)",7,73.179487179
-"11","Diemtigen",2,71.48746931
-"12","Ederswiler",26,71.428571429
-"13","Urnäsch",15,71.001494768
-"14","Dallenwil",7,70.891364903
-"15","Furna",18,70.666666667
-"16","Wolfenschiessen",7,70.648030496
-"17","Schönengrund",15,70.224719101
-"18","Oberdorf (NW)",7,70.165289256
-"19","Oberlangenegg",2,69.943374858
-"20","Reisiswil",2,69.568567026
-"21","Alpthal",5,69.402985075
-"22","Unteriberg",5,69.293966624
-"23","Raperswilen",20,69.090909091
-"24","Röthenbach im Emmental",2,68.8828542
-"25","Boltigen",2,68.738009842
-"26","Kandergrund",2,68.281496345
-"27","Ennetmoos",7,68.219178082
-"28","Därstetten",2,67.927046263
-"29","Lauenen",2,67.913148372
-"30","Emmetten",7,67.881548975
-"31","Eriz",2,67.806841046
-"32","Schwellbrunn",15,67.753001715
-"33","Pohlern",2,67.095851216
-"34","Eggiwil",2,67.064365815
-"35","Landiswil",2,66.796058525
-"36","Beckenried",7,66.48177496
-"37","Vorderthal",5,65.867306155
-"38","Herisau",15,64.702612563
-"39","Hagenbuch",1,64.511691884
-"40","Champoz",2,64.467005076
-"41","Saules (BE)",2,64.369400414
-"42","Beggingen",14,64.158415842
-"43","St. Stephan",2,64.132453724
-"44","Teuffenthal (BE)",2,63.878912263
-"45","Buochs",7,63.502824859
-"46","Waldstatt",15,63.275039746
-"47","Rumendingen",2,63.229166667
-"48","Buchholterberg",2,63.194190162
-"49","Holziken",19,63.083475298
-"50","Farnern",2,63.020572002
+"1","Horrenbach-Buchen","BE",84.10543131
+"2","Lütschental","BE",81.041544763
+"3","Schangnau","BE",79.6736359
+"4","Berken","BE",78.273809524
+"5","Hundwil","AR",76.534296029
+"6","Wachseldorn","BE",76.15248227
+"7","Saxeten","BE",75.109649123
+"8","Seehof","BE",75
+"9","Habkern","BE",74.642488574
+"10","Hergiswil (NW)","NW",73.179487179
+"11","Diemtigen","BE",71.48746931
+"12","Ederswiler","JU",71.428571429
+"13","Urnäsch","AR",71.001494768
+"14","Dallenwil","NW",70.891364903
+"15","Furna","GR",70.666666667
+"16","Wolfenschiessen","NW",70.648030496
+"17","Schönengrund","AR",70.224719101
+"18","Oberdorf (NW)","NW",70.165289256
+"19","Oberlangenegg","BE",69.943374858
+"20","Reisiswil","BE",69.568567026
+"21","Alpthal","SZ",69.402985075
+"22","Unteriberg","SZ",69.293966624
+"23","Raperswilen","TG",69.090909091
+"24","Röthenbach im Emmental","BE",68.8828542
+"25","Boltigen","BE",68.738009842
+"26","Kandergrund","BE",68.281496345
+"27","Ennetmoos","NW",68.219178082
+"28","Därstetten","BE",67.927046263
+"29","Lauenen","BE",67.913148372
+"30","Emmetten","NW",67.881548975
+"31","Eriz","BE",67.806841046
+"32","Schwellbrunn","AR",67.753001715
+"33","Pohlern","BE",67.095851216
+"34","Eggiwil","BE",67.064365815
+"35","Landiswil","BE",66.796058525
+"36","Beckenried","NW",66.48177496
+"37","Vorderthal","SZ",65.867306155
+"38","Herisau","AR",64.702612563
+"39","Hagenbuch","ZH",64.511691884
+"40","Champoz","BE",64.467005076
+"41","Saules (BE)","BE",64.369400414
+"42","Beggingen","SH",64.158415842
+"43","Saint-Etienne","BE",64.132453724
+"44","Teuffenthal (BE)","BE",63.878912263
+"45","Buochs","NW",63.502824859
+"46","Waldstatt","AR",63.275039746
+"47","Rumendingen","BE",63.229166667
+"48","Buchholterberg","BE",63.194190162
+"49","Holziken","AG",63.083475298
+"50","Farnern","BE",63.020572002
