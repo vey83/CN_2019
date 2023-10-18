@@ -1,61 +1,11 @@
-taille,partei_id,Meno di 2000 abitanti,Fra 2000 e 5000 abitanti,Fra 5000 e 10'000 abitanti,Fra 10'000 e 20'000 abitanti,Fra 20'000 e 50'000 abitanti,Oltre 50'000 abitanti
-Entre 10'000 et 20'000 habitants,UDF,NA,NA,NA,1.39,NA,NA
-Entre 20'000 et 50'000 habitants,UDF,NA,NA,NA,NA,1.27,NA
-Entre 2000 et 5000 habitants,UDF,NA,1.82,NA,NA,NA,NA
-Entre 5000 et 10'000 habitants,UDF,NA,NA,1.64,NA,NA,NA
-Moins de 2000 habitants,UDF,1.82,NA,NA,NA,NA,NA
-Plus de 50'000 habitants,UDF,NA,NA,NA,NA,NA,0.56
-Entre 10'000 et 20'000 habitants,UDC,NA,NA,NA,25.77,NA,NA
-Entre 20'000 et 50'000 habitants,UDC,NA,NA,NA,NA,23.84,NA
-Entre 2000 et 5000 habitants,UDC,NA,32.51,NA,NA,NA,NA
-Entre 5000 et 10'000 habitants,UDC,NA,NA,30.25,NA,NA,NA
-Moins de 2000 habitants,UDC,36.1,NA,NA,NA,NA,NA
-Plus de 50'000 habitants,UDC,NA,NA,NA,NA,NA,13.44
-Entre 10'000 et 20'000 habitants,PLR,NA,NA,NA,16.25,NA,NA
-Entre 20'000 et 50'000 habitants,PLR,NA,NA,NA,NA,13.58,NA
-Entre 2000 et 5000 habitants,PLR,NA,14.06,NA,NA,NA,NA
-Entre 5000 et 10'000 habitants,PLR,NA,NA,15.69,NA,NA,NA
-Moins de 2000 habitants,PLR,12.68,NA,NA,NA,NA,NA
-Plus de 50'000 habitants,PLR,NA,NA,NA,NA,NA,11.73
-Entre 10'000 et 20'000 habitants,Verdi liberali,NA,NA,NA,10.7,NA,NA
-Entre 20'000 et 50'000 habitants,Verdi liberali,NA,NA,NA,NA,10.32,NA
-Entre 2000 et 5000 habitants,Verdi liberali,NA,8.31,NA,NA,NA,NA
-Entre 5000 et 10'000 habitants,Verdi liberali,NA,NA,9.82,NA,NA,NA
-Moins de 2000 habitants,Verdi liberali,7.04,NA,NA,NA,NA,NA
-Plus de 50'000 habitants,Verdi liberali,NA,NA,NA,NA,NA,13.13
-Entre 10'000 et 20'000 habitants,Centro,NA,NA,NA,7.06,NA,NA
-Entre 20'000 et 50'000 habitants,Centro,NA,NA,NA,NA,7.37,NA
-Entre 2000 et 5000 habitants,Centro,NA,8.7,NA,NA,NA,NA
-Entre 5000 et 10'000 habitants,Centro,NA,NA,8.7,NA,NA,NA
-Moins de 2000 habitants,Centro,8.69,NA,NA,NA,NA,NA
-Plus de 50'000 habitants,Centro,NA,NA,NA,NA,NA,4.09
-Entre 10'000 et 20'000 habitants,PEV,NA,NA,NA,3.28,NA,NA
-Entre 20'000 et 50'000 habitants,PEV,NA,NA,NA,NA,3.23,NA
-Entre 2000 et 5000 habitants,PEV,NA,2.9,NA,NA,NA,NA
-Entre 5000 et 10'000 habitants,PEV,NA,NA,3.03,NA,NA,NA
-Moins de 2000 habitants,PEV,2.51,NA,NA,NA,NA,NA
-Plus de 50'000 habitants,PEV,NA,NA,NA,NA,NA,2.15
-Entre 10'000 et 20'000 habitants,PS,NA,NA,NA,16.29,NA,NA
-Entre 20'000 et 50'000 habitants,PS,NA,NA,NA,NA,18.38,NA
-Entre 2000 et 5000 habitants,PS,NA,13.42,NA,NA,NA,NA
-Entre 5000 et 10'000 habitants,PS,NA,NA,14.33,NA,NA,NA
-Moins de 2000 habitants,PS,11.95,NA,NA,NA,NA,NA
-Plus de 50'000 habitants,PS,NA,NA,NA,NA,NA,25.36
-Entre 10'000 et 20'000 habitants,Verdi,NA,NA,NA,12.84,NA,NA
-Entre 20'000 et 50'000 habitants,Verdi,NA,NA,NA,NA,15.18,NA
-Entre 2000 et 5000 habitants,Verdi,NA,10.55,NA,NA,NA,NA
-Entre 5000 et 10'000 habitants,Verdi,NA,NA,10.79,NA,NA,NA
-Moins de 2000 habitants,Verdi,10.89,NA,NA,NA,NA,NA
-Plus de 50'000 habitants,Verdi,NA,NA,NA,NA,NA,21.28
-Entre 10'000 et 20'000 habitants,Estrema sinistra,NA,NA,NA,0.81,NA,NA
-Entre 20'000 et 50'000 habitants,Estrema sinistra,NA,NA,NA,NA,1.27,NA
-Entre 2000 et 5000 habitants,Estrema sinistra,NA,0.5,NA,NA,NA,NA
-Entre 5000 et 10'000 habitants,Estrema sinistra,NA,NA,0.46,NA,NA,NA
-Moins de 2000 habitants,Estrema sinistra,0.74,NA,NA,NA,NA,NA
-Plus de 50'000 habitants,Estrema sinistra,NA,NA,NA,NA,NA,1.62
-Entre 10'000 et 20'000 habitants,Diversi,NA,NA,NA,5.6,NA,NA
-Entre 20'000 et 50'000 habitants,Diversi,NA,NA,NA,NA,5.55,NA
-Entre 2000 et 5000 habitants,Diversi,NA,7.23,NA,NA,NA,NA
-Entre 5000 et 10'000 habitants,Diversi,NA,NA,5.29,NA,NA,NA
-Moins de 2000 habitants,Diversi,7.58,NA,NA,NA,NA,NA
-Plus de 50'000 habitants,Diversi,NA,NA,NA,NA,NA,6.63
+partei_id,Meno di 2000 abitanti,Fra 2000 e 5000 abitanti,Fra 5000 e 10'000 abitanti,Fra 10'000 e 20'000 abitanti,Fra 20'000 e 50'000 abitanti,Oltre 50'000 abitanti
+UDF,1.82,1.82,1.64,1.39,1.27,0.56
+UDC,36.1,32.51,30.25,25.77,23.84,13.44
+PLR,12.68,14.06,15.69,16.25,13.58,11.73
+Verdi liberali,7.04,8.31,9.82,10.7,10.32,13.13
+Centro,8.69,8.7,8.7,7.06,7.37,4.09
+PEV,2.51,2.9,3.03,3.28,3.23,2.15
+PS,11.95,13.42,14.33,16.29,18.38,25.36
+Verdi,10.89,10.55,10.79,12.84,15.18,21.28
+Estrema sinistra,0.74,0.5,0.46,0.81,1.27,1.62
+Diversi,7.58,7.23,5.29,5.6,5.55,6.63
