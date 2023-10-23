@@ -151,7 +151,7 @@ gemeinde_nummer,gemeinde_bezeichnung,partei_id,pourcent_2023,voix_2023,kantons_n
 250,Urdorf,13,6.34,5900,1,Urdorf,Urdorf,Urdorf,ZH,9.43,8050,-3.09,-2150
 251,Weiningen (ZH),13,5.36,2293,1,Weiningen ZH,Weiningen (ZH),Weiningen ZH,ZH,8.38,3468,-3.02,-1175
 261,Zürich,13,14.68,630028,1,Zürich,Zurich,Zurigo,ZH,20.39,786228,-5.71,-156200
-291,Andelfingen,13,7.32,3513,NA,NA,NA,NA,NA,NA,NA,NA,NA
+291,Andelfingen,13,7.32,3513,0,0,0,0,0,NA,NA,NA,NA
 292,Stammheim,13,6.31,2768,1,Stammheim,Stammheim,Stammheim,ZH,10.29,4121,-3.98,-1353
 293,Wädenswil,13,9.24,26895,1,Wädenswil,Wädenswil,Wädenswil,ZH,12.97,34257,-3.73,-7362
 294,Elgg,13,6.96,4102,1,Elgg,Elgg,Elgg,ZH,10.28,5636,-3.32,-1534
@@ -601,9 +601,9 @@ gemeinde_nummer,gemeinde_bezeichnung,partei_id,pourcent_2023,voix_2023,kantons_n
 1373,Steinen,13,3.46,226,5,Steinen,Steinen,Steinen,SZ,3.35,175,0.11,51
 1374,Steinerberg,13,1.73,29,5,Steinerberg,Steinerberg,Steinerberg,SZ,2.35,32,-0.62,-3
 1375,Unteriberg,13,0.21,10,5,Unteriberg,Unteriberg,Unteriberg,SZ,0.72,28,-0.51,-18
-1630,Glarus Nord,13,NA,NA,8,Glarus Nord,Glarus Nord,Glarus Nord,GL,1.66,65,NA,NA
-1631,Glarus Süd,13,NA,NA,8,Glarus Süd,Glarus Süd,Glarus Süd,GL,4.11,128,NA,NA
-1632,Glarus,13,NA,NA,8,Glarus,Glaris,Glarona,GL,2.75,86,NA,NA
+1630,Glarus Nord,13,0,0,8,Glarus Nord,Glarus Nord,Glarus Nord,GL,1.66,65,-1.66,-65
+1631,Glarus Süd,13,0,0,8,Glarus Süd,Glarus Süd,Glarus Süd,GL,4.11,128,-4.11,-128
+1632,Glarus,13,0,0,8,Glarus,Glaris,Glarona,GL,2.75,86,-2.75,-86
 1701,Baar,13,16.99,3714,9,Baar,Baar,Baar,ZG,19.74,4195,-2.75,-481
 1702,Cham,13,17.75,2818,9,Cham,Cham,Cham,ZG,20.37,3011,-2.62,-193
 1703,Hünenberg,13,15.85,1622,9,Hünenberg,Hünenberg,Hünenberg,ZG,19.25,1910,-3.4,-288
@@ -1251,7 +1251,7 @@ gemeinde_nummer,gemeinde_bezeichnung,partei_id,pourcent_2023,voix_2023,kantons_n
 4183,Zeihen,13,7.06,539,19,Zeihen,Zeihen,Zeihen,AG,10.58,712,-3.52,-173
 4184,Mettauertal,13,3.55,399,19,Mettauertal,Mettauertal,Mettauertal,AG,6.84,713,-3.29,-314
 4185,Böztal,13,5.35,733,19,Böztal,Böztal,Böztal,AG,NA,NA,NA,NA
-4186,Herznach-Ueken,13,5.42,746,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4186,Herznach-Ueken,13,5.42,746,0,0,0,0,0,NA,NA,NA,NA
 4191,Ammerswil,13,4.22,177,19,Ammerswil,Ammerswil,Ammerswil,AG,11.09,361,-6.87,-184
 4192,Boniswil,13,7.3,677,19,Boniswil,Boniswil,Boniswil,AG,11.04,857,-3.74,-180
 4193,Brunegg,13,4.4,137,19,Brunegg,Brunegg,Brunegg,AG,7.36,227,-2.96,-90
@@ -2067,4 +2067,4 @@ gemeinde_nummer,gemeinde_bezeichnung,partei_id,pourcent_2023,voix_2023,kantons_n
 6808,Clos du Doubs,13,9.56,95,26,Clos du Doubs,Clos du Doubs,Clos du Doubs,JU,16.12,151,-6.56,-56
 6809,Haute-Ajoie,13,8.01,75,26,Haute-Ajoie,Haute-Ajoie,Haute-Ajoie,JU,11.45,101,-3.44,-26
 6810,La Baroche,13,10.47,93,26,La Baroche,La Baroche,La Baroche,JU,12.77,114,-2.3,-21
-6811,Damphreux-Lugnez,13,5.07,14,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6811,Damphreux-Lugnez,13,5.07,14,0,0,0,0,0,NA,NA,NA,NA
