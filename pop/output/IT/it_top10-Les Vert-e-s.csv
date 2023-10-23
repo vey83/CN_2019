@@ -1,51 +1,51 @@
 "","Comune","Cantone","Percentuale"
-"1","Oltingen","BL",38.378378378
-"2","Onsernone","TI",36.942924159
-"3","Les Enfers","JU",36.507936508
-"4","Daillens","VD",34.596893491
-"5","Campo (Vallemaggia)","TI",33.796296296
-"6","Ferreyres","VD",32.904085258
-"7","Fontaines-sur-Grandson","VD",31.281032771
-"8","Puplinge","GE",31.071878941
-"9","Schelten","BE",30.882352941
-"10","Presinge","GE",30.68
-"11","Tenniken","BL",30.247933884
-"12","Romainmôtier-Envy","VD",30.088008801
-"13","Versoix","GE",29.906148247
-"14","Sissach","BL",29.495545238
-"15","Russin","GE",28.827037773
-"16","CarouGE","GE",28.699380657
-"17","Kilchberg BL","BL",28.518518519
-"18",NA,NA,28.456659619
-"19","Rochefort","NE",27.674672489
-"20","Rothenfluh","BL",27.576754386
-"21","Troinex","GE",27.264258358
-"22","Losanna","VD",27.257761252
-"23","Avully","GE",26.976365118
-"24","Cartigny","GE",26.951120713
-"25","Perly-Certoux","GE",26.823473509
-"26","Ramlinsburg","BL",26.734177215
-"27","Clarmont","VD",26.724137931
-"28","Chêne-Bourg","GE",26.588852324
-"29","Enges","NE",26.530612245
-"30","Plateau de Diesse","BE",26.492287056
-"31","Boulens","VD",26.451612903
-"32","Neuenburg","NE",26.171330885
-"33","Bardonnex","GE",26.083611182
-"34","Baulmes","VD",26.055988074
-"35","Ginevra","GE",25.996980689
-"36","Ogens","VD",25.918635171
-"37","Treycovagnes","VD",25.830564784
-"38","Hermance","GE",25.762289981
-"39","Confignon","GE",25.737644455
-"40","Neuenstadt","BE",25.531467944
-"41","Dornach","SO",25.455624311
-"42","Chêne-Pâquier","VD",25.396825397
-"43",NA,NA,25.371073524
-"44","Satigny","GE",25.341908173
-"45","Avusy","GE",25.307721
-"46","Berna","BE",25.24440106
-"47","Céligny","GE",25.196463654
-"48","Bretonnières","VD",25.083426029
-"49","Yverdon-les-Bains","VD",25.079170594
-"50",NA,NA,25.067340067
+"1","Schelten","BE",36.625514403
+"2","Les Enfers","JU",33.582089552
+"3","Ferreyres","VD",27.641462193
+"4","Oltingen","BL",25.183098592
+"5","Enges","NE",25.062656642
+"6","Onsernone","TI",24.820430966
+"7","Neuenstadt","BE",24.195141221
+"8","Daillens","VD",24.161196207
+"9","Friburgo","FR",23.701950445
+"10","Rochefort","NE",23.648983639
+"11","Astano","TI",23.345935728
+"12","Salvan","VS",23.279945861
+"13","Romainmôtier-Envy","VD",23.140749846
+"14","Bister","VS",22.377622378
+"15","Lajoux JU","JU",22.02020202
+"16","Berna","BE",21.747578183
+"17","Plateau de Diesse","BE",21.648431802
+"18","Lovatens","VD",21.347031963
+"19","Arbaz","VS",21.254523522
+"20","Oppens","VD",20.337682272
+"21","Neuenburg","NE",20.155282998
+"22","Fontaines-sur-Grandson","VD",20.106288751
+"23","La Tène","NE",20.01156738
+"24","Losanna","VD",20.008511623
+"25","Chêne-Pâquier","VD",19.959266802
+"26","Lussy-sur-Morges","VD",19.948739855
+"27","CarouGE","GE",19.770643073
+"28","Grandevent","VD",19.580924855
+"29","Zugo","ZG",19.566794862
+"30","Biel BE","BE",19.533567346
+"31","Steinhausen","ZG",19.532814238
+"32","Olten","SO",19.467414561
+"33","Orny","VD",19.151565074
+"34","Mettembert","JU",19.090909091
+"35","Leubringen","BE",18.959443203
+"36","Cormoret","BE",18.771842237
+"37","Maracon","VD",18.691837277
+"38","Basilea","BS",18.548860572
+"39","La Ferrière","BE",18.497868153
+"40","Montfaucon","JU",18.224299065
+"41","Saint-Blaise","NE",17.96803653
+"42","Soletta","SO",17.923068715
+"43","Collex-Bossy","GE",17.899562409
+"44","Cartigny","GE",17.796610169
+"45","Terre di Pedemonte","TI",17.775
+"46","Cham","ZG",17.746709491
+"47","La Sarraz","VD",17.716452496
+"48","Kammersrohr","SO",17.708333333
+"49","Baulmes","VD",17.703191839
+"50","Denges","VD",17.679697352
