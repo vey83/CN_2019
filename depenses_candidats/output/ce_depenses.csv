@@ -2,45 +2,39 @@
 "1","Tiana Angelina Moser","PVL","Zurich",416542.61,"Tiana Angelina Moser","GLP","Zürich",416542.61,"Tiana Angelina Moser","Verdi liberali","Zurigo",416542.61,TRUE
 "2","Thierry Burkart","PLR","Argovie",341244.54,"Thierry Burkart","FDP","Aargau",341244.54,"Thierry Burkart","PLR","Argovia",341244.54,TRUE
 "3","Pascal Broulis","PLR","Vaud",287004.5,"Pascal Broulis","FDP","Waadt",287004.5,"Pascal Broulis","PLR","Vaud",287004.5,TRUE
-"4","Pascal Broulis","PLR","Vaud",287004.5,"Pascal Broulis","FDP","Waadt",287004.5,"Pascal Broulis","PLR","Vaud",287004.5,TRUE
-"5","Flavia Wasserfallen","PS","Berne",259541.6,"Flavia Wasserfallen","SP","Bern",259541.6,"Flavia Wasserfallen","PS","Berna",259541.6,TRUE
-"6","Simon Stocker","PS","Schaffhouse",259087,"Simon Stocker","SP","Schaffhausen",259087,"Simon Stocker","PS","Sciaffusa",259087,TRUE
-"7","Werner Salzmann","UDC","Berne",245415,"Werner Salzmann","SVP","Bern",245415,"Werner Salzmann","UDC","Berna",245415,TRUE
-"8","Daniel Jositsch","PS","Zurich",218636.4,"Daniel Jositsch","SP","Zürich",218636.4,"Daniel Jositsch","PS","Zurigo",218636.4,TRUE
-"9","Marianne Binder-Keller","Le Centre","Argovie",196599.67,"Marianne Binder-Keller","Mitte","Aargau",196599.67,"Marianne Binder-Keller","Centro","Argovia",196599.67,TRUE
-"10","Martin Schmid","PLR","Grisons",196147.5,"Martin Schmid","FDP","Graubünden",196147.5,"Martin Schmid","PLR","Grigioni",196147.5,TRUE
-"11","Martin Schmid","PLR","Grisons",196147.5,"Martin Schmid","FDP","Graubünden",196147.5,"Martin Schmid","PLR","Grigioni",196147.5,TRUE
-"12","Benedikt Würth","Le Centre","Saint-Gall",192713.45,"Benedikt Würth","Mitte","St. Gallen",192713.45,"Benedikt Würth","Centro","San Gallo",192713.45,TRUE
-"13","Benedikt Würth","Le Centre","Saint-Gall",192713.45,"Benedikt Würth","Mitte","St. Gallen",192713.45,"Benedikt Würth","Centro","San Gallo",192713.45,TRUE
-"14","Franziska Roth","PS","Soleure",177380.25,"Franziska Roth","SP","Solothurn",177380.25,"Franziska Roth","PS","Soletta",177380.25,TRUE
-"15","Petra Gössi","PLR","Schwyz",162086,"Petra Gössi","FDP","Schwyz",162086,"Petra Gössi","PLR","Svitto",162086,TRUE
-"16","Petra Gössi","PLR","Schwyz",162086,"Petra Gössi","FDP","Schwyz",162086,"Petra Gössi","PLR","Svitto",162086,TRUE
-"17","Johanna Gapany","PLR","Fribourg",160752.5,"Johanna Gapany","FDP","Freiburg",160752.5,"Johanna Gapany","PLR","Friburgo",160752.5,TRUE
-"18","Beat Rieder","Le Centre","Valais",157728.9,"Beat Rieder","Mitte","Wallis",157728.9,"Beat Rieder","Centro","Vallese",157728.9,TRUE
-"19","Damian Müller","PLR","Lucerne",154916,"Damian Müller","FDP","Luzern",154916,"Damian Müller","PLR","Lucerna",154916,TRUE
-"20","Fabio Regazzi","Le Centre","Tessin",149005.95,"Fabio Regazzi","Mitte","Tessin",149005.95,"Fabio Regazzi","Centro","Ticino",149005.95,TRUE
-"21","Jakob Stark","UDC","Thurgovie",145436,"Jakob Stark","SVP","Thurgau",145436,"Jakob Stark","UDC","Turgovia",145436,TRUE
-"22","Pirmin Bischof","Le Centre","Soleure",139207.1,"Pirmin Bischof","Mitte","Solothurn",139207.1,"Pirmin Bischof","Centro","Soletta",139207.1,TRUE
-"23","Michaël Buffat","UDC","Vaud",138610.5,"Michaël Buffat","SVP","Waadt",138610.5,"Michaël Buffat","UDC","Vaud",138610.5,FALSE
-"24","Eva Herzog","PS","Bâle-Ville",124191.71,"Eva Herzog","SP","Basel-Stadt",124191.71,"Eva Herzog","PS","Basilea Città",124191.71,TRUE
-"25","Carlo Sommaruga","PS","Genève",112845,"Carlo Sommaruga","SP","Genf",112845,"Carlo Sommaruga","PS","Ginevra",112845,TRUE
-"26","Lisa Mazzone","Les Vert-e-s","Genève",112845,"Lisa Mazzone","Grüne","Genf",112845,"Lisa Mazzone","Verdi","Ginevra",112845,FALSE
-"27","Isabelle Chassot","Le Centre","Fribourg",109572,"Isabelle Chassot","Mitte","Freiburg",109572,"Isabelle Chassot","Centro","Friburgo",109572,TRUE
-"28","Marianne Maret","Le Centre","Valais",105163.4,"Marianne Maret","Mitte","Wallis",105163.4,"Marianne Maret","Centro","Vallese",105163.4,TRUE
-"29","Esther Friedli","UDC","Saint-Gall",105042.9,"Esther Friedli","SVP","St. Gallen",105042.9,"Esther Friedli","UDC","San Gallo",105042.9,TRUE
-"30","Esther Friedli","UDC","Saint-Gall",105042.9,"Esther Friedli","SVP","St. Gallen",105042.9,"Esther Friedli","UDC","San Gallo",105042.9,TRUE
-"31","Brigitte Häberli-Koller","Le Centre","Thurgovie",104953.6,"Brigitte Häberli-Koller","Mitte","Thurgau",104953.6,"Brigitte Häberli-Koller","Centro","Turgovia",104953.6,TRUE
-"32","Maya Graf","Les Vert-e-s","Bâle-Campagne",103282.95,"Maya Graf","Grüne","Basel-Landschaft",103282.95,"Maya Graf","Verdi","Basilea Campagna",103282.95,TRUE
-"33","Raphaël Mahaim","Les Vert-e-s","Vaud",90518.85,"Raphaël Mahaim","Grüne","Waadt",90518.85,"Raphaël Mahaim","Verdi","Vaud",90518.85,FALSE
-"34","Pierre-Yves Maillard","PS","Vaud",90518.85,"Pierre-Yves Maillard","SP","Waadt",90518.85,"Pierre-Yves Maillard","PS","Vaud",90518.85,TRUE
-"35","Hannes Germann","UDC","Schaffhouse",81740.9,"Hannes Germann","SVP","Schaffhausen",81740.9,"Hannes Germann","UDC","Sciaffusa",81740.9,TRUE
-"36","Matthias Michel","PLR","Zoug",75185.53,"Matthias Michel","FDP","Zug",75185.53,"Matthias Michel","PLR","Zugo",75185.53,TRUE
-"37","Andrea Gmür-Schönenberger","Divers",NA,73935.45,"Andrea Gmür-Schönenberger","Übrige",NA,73935.45,"Andrea Gmür-Schönenberger","Diversi",NA,73935.45,NA
-"38","Stefan Engler","Le Centre","Grisons",73896.89,"Stefan Engler","Mitte","Graubünden",73896.89,"Stefan Engler","Centro","Grigioni",73896.89,TRUE
-"39","Pirmin Schwander","UDC","Schwyz",69247.15,"Pirmin Schwander","SVP","Schwyz",69247.15,"Pirmin Schwander","UDC","Svitto",69247.15,TRUE
-"40","Céline Vara","Les Vert-e-s","Neuchâtel",62609.35,"Céline Vara","Grüne","Neuenburg",62609.35,"Céline Vara","Verdi","Neuchâtel",62609.35,TRUE
-"41","Céline Vara","Les Vert-e-s","Neuchâtel",62609.35,"Céline Vara","Grüne","Neuenburg",62609.35,"Céline Vara","Verdi","Neuchâtel",62609.35,TRUE
-"42","Mauro Poggia","Divers","Genève",55938.05,"Mauro Poggia","Übrige","Genf",55938.05,"Mauro Poggia","Diversi","Ginevra",55938.05,TRUE
-"43","Céline Amaudruz","UDC","Genève",55938.05,"Céline Amaudruz","SVP","Genf",55938.05,"Céline Amaudruz","UDC","Ginevra",55938.05,FALSE
-"44","Tiana Moser","Divers",NA,53441.57,"Tiana Moser","Übrige",NA,53441.57,"Tiana Moser","Diversi",NA,53441.57,NA
-"45","Fabien Fivaz","Les Vert-e-s","Neuchâtel",48554.5,"Fabien Fivaz","Grüne","Neuenburg",48554.5,"Fabien Fivaz","Verdi","Neuchâtel",48554.5,FALSE
+"4","Flavia Wasserfallen","PS","Berne",259541.6,"Flavia Wasserfallen","SP","Bern",259541.6,"Flavia Wasserfallen","PS","Berna",259541.6,TRUE
+"5","Simon Stocker","PS","Schaffhouse",259087,"Simon Stocker","SP","Schaffhausen",259087,"Simon Stocker","PS","Sciaffusa",259087,TRUE
+"6","Werner Salzmann","UDC","Berne",245415,"Werner Salzmann","SVP","Bern",245415,"Werner Salzmann","UDC","Berna",245415,TRUE
+"7","Daniel Jositsch","PS","Zurich",218636.4,"Daniel Jositsch","SP","Zürich",218636.4,"Daniel Jositsch","PS","Zurigo",218636.4,TRUE
+"8","Marianne Binder-Keller","Le Centre","Argovie",196599.67,"Marianne Binder-Keller","Mitte","Aargau",196599.67,"Marianne Binder-Keller","Centro","Argovia",196599.67,TRUE
+"9","Martin Schmid","PLR","Grisons",196147.5,"Martin Schmid","FDP","Graubünden",196147.5,"Martin Schmid","PLR","Grigioni",196147.5,TRUE
+"10","Benedikt Würth","Le Centre","Saint-Gall",192713.45,"Benedikt Würth","Mitte","St. Gallen",192713.45,"Benedikt Würth","Centro","San Gallo",192713.45,TRUE
+"11","Franziska Roth","PS","Soleure",177380.25,"Franziska Roth","SP","Solothurn",177380.25,"Franziska Roth","PS","Soletta",177380.25,TRUE
+"12","Petra Gössi","PLR","Schwyz",162086,"Petra Gössi","FDP","Schwyz",162086,"Petra Gössi","PLR","Svitto",162086,TRUE
+"13","Johanna Gapany","PLR","Fribourg",160752.5,"Johanna Gapany","FDP","Freiburg",160752.5,"Johanna Gapany","PLR","Friburgo",160752.5,TRUE
+"14","Beat Rieder","Le Centre","Valais",157728.9,"Beat Rieder","Mitte","Wallis",157728.9,"Beat Rieder","Centro","Vallese",157728.9,TRUE
+"15","Damian Müller","PLR","Lucerne",154916,"Damian Müller","FDP","Luzern",154916,"Damian Müller","PLR","Lucerna",154916,TRUE
+"16","Fabio Regazzi","Le Centre","Tessin",149005.95,"Fabio Regazzi","Mitte","Tessin",149005.95,"Fabio Regazzi","Centro","Ticino",149005.95,TRUE
+"17","Jakob Stark","UDC","Thurgovie",145436,"Jakob Stark","SVP","Thurgau",145436,"Jakob Stark","UDC","Turgovia",145436,TRUE
+"18","Pirmin Bischof","Le Centre","Soleure",139207.1,"Pirmin Bischof","Mitte","Solothurn",139207.1,"Pirmin Bischof","Centro","Soletta",139207.1,TRUE
+"19","Michaël Buffat","UDC","Vaud",138610.5,"Michaël Buffat","SVP","Waadt",138610.5,"Michaël Buffat","UDC","Vaud",138610.5,FALSE
+"20","Eva Herzog","PS","Bâle-Ville",124191.71,"Eva Herzog","SP","Basel-Stadt",124191.71,"Eva Herzog","PS","Basilea Città",124191.71,TRUE
+"21","Carlo Sommaruga","PS","Genève",112845,"Carlo Sommaruga","SP","Genf",112845,"Carlo Sommaruga","PS","Ginevra",112845,TRUE
+"22","Lisa Mazzone","Les Vert-e-s","Genève",112845,"Lisa Mazzone","Grüne","Genf",112845,"Lisa Mazzone","Verdi","Ginevra",112845,FALSE
+"23","Isabelle Chassot","Le Centre","Fribourg",109572,"Isabelle Chassot","Mitte","Freiburg",109572,"Isabelle Chassot","Centro","Friburgo",109572,TRUE
+"24","Marianne Maret","Le Centre","Valais",105163.4,"Marianne Maret","Mitte","Wallis",105163.4,"Marianne Maret","Centro","Vallese",105163.4,TRUE
+"25","Esther Friedli","UDC","Saint-Gall",105042.9,"Esther Friedli","SVP","St. Gallen",105042.9,"Esther Friedli","UDC","San Gallo",105042.9,TRUE
+"26","Brigitte Häberli-Koller","Le Centre","Thurgovie",104953.6,"Brigitte Häberli-Koller","Mitte","Thurgau",104953.6,"Brigitte Häberli-Koller","Centro","Turgovia",104953.6,TRUE
+"27","Maya Graf","Les Vert-e-s","Bâle-Campagne",103282.95,"Maya Graf","Grüne","Basel-Landschaft",103282.95,"Maya Graf","Verdi","Basilea Campagna",103282.95,TRUE
+"28","Raphaël Mahaim","Les Vert-e-s","Vaud",90518.85,"Raphaël Mahaim","Grüne","Waadt",90518.85,"Raphaël Mahaim","Verdi","Vaud",90518.85,FALSE
+"29","Pierre-Yves Maillard","PS","Vaud",90518.85,"Pierre-Yves Maillard","SP","Waadt",90518.85,"Pierre-Yves Maillard","PS","Vaud",90518.85,TRUE
+"30","Hannes Germann","UDC","Schaffhouse",81740.9,"Hannes Germann","SVP","Schaffhausen",81740.9,"Hannes Germann","UDC","Sciaffusa",81740.9,TRUE
+"31","Matthias Michel","PLR","Zoug",75185.53,"Matthias Michel","FDP","Zug",75185.53,"Matthias Michel","PLR","Zugo",75185.53,TRUE
+"32","Andrea Gmür-Schönenberger","Divers",NA,73935.45,"Andrea Gmür-Schönenberger","Übrige",NA,73935.45,"Andrea Gmür-Schönenberger","Diversi",NA,73935.45,NA
+"33","Stefan Engler","Le Centre","Grisons",73896.89,"Stefan Engler","Mitte","Graubünden",73896.89,"Stefan Engler","Centro","Grigioni",73896.89,TRUE
+"34","Pirmin Schwander","UDC","Schwyz",69247.15,"Pirmin Schwander","SVP","Schwyz",69247.15,"Pirmin Schwander","UDC","Svitto",69247.15,TRUE
+"35","Céline Vara","Les Vert-e-s","Neuchâtel",62609.35,"Céline Vara","Grüne","Neuenburg",62609.35,"Céline Vara","Verdi","Neuchâtel",62609.35,TRUE
+"36","Mauro Poggia","Divers","Genève",55938.05,"Mauro Poggia","Übrige","Genf",55938.05,"Mauro Poggia","Diversi","Ginevra",55938.05,TRUE
+"37","Céline Amaudruz","UDC","Genève",55938.05,"Céline Amaudruz","SVP","Genf",55938.05,"Céline Amaudruz","UDC","Ginevra",55938.05,FALSE
+"38","Tiana Moser","Divers",NA,53441.57,"Tiana Moser","Übrige",NA,53441.57,"Tiana Moser","Diversi",NA,53441.57,NA
+"39","Fabien Fivaz","Les Vert-e-s","Neuchâtel",48554.5,"Fabien Fivaz","Grüne","Neuenburg",48554.5,"Fabien Fivaz","Verdi","Neuchâtel",48554.5,FALSE
